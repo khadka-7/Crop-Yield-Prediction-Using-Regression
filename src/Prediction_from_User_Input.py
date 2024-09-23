@@ -32,5 +32,5 @@ user_input = {
 }
 
 # Predict using Random Forest
-predicted_yield = make_prediction('RandomForest', user_input)
+predicted_yield = make_prediction('Gradient Boosting', user_input)
 print(f"Predicted yield: {predicted_yield[0]:.2f}")
