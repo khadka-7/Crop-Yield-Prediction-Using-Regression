@@ -2,6 +2,11 @@
 This project predicts crop yield based on various environmental factors (rainfall, pesticides, temperature). Selected regression models Random Forest, Gradient Boosting, Decision Tree, and Linear Regression are
 compared based on performance.
 
+R-squared, often denoted as R^2 is a statistical measure used in regression analysis to assess the goodness of fit of a model. It quantifies the proportion of variance in the dependent variable that can be predicted or explained by one or more independent variables. Here’s a detailed overview:
+
+# Definition
+Coefficient of Determination:It is defined as the ratio of the variance explained by the regression model to the total variance in the dependent variable. It ranges from 0 to 1 (or 0% to 100% when expressed as a percentage).
+
 ## How to Use
 1. Clone the repository.
 2. Install required packages using:
