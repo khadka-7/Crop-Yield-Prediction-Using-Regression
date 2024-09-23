@@ -29,8 +29,8 @@ compared based on performance.
 |Data Handling   |Categorical & numerical   |Categorical & numerical   |Categorical & numerical   |Numerical only   |
 
 
-#Use Cases
-##When to Use Each Model:
+# Use Cases
+## When to Use Each Model:
 --Use Decision Trees for simple problems requiring interpretability.
 --Choose Random Forest when you need robust performance across various datasets with less concern for interpretability.
 --Opt for Gradient Boosting when seeking high accuracy on complex datasets and you can afford longer training times and hyperparameter tuning.
